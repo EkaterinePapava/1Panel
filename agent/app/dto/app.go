@@ -128,6 +128,7 @@ type Locale struct {
 	Zh     string `json:"zh"`
 	Ko     string `json:"ko"`
 	Tr     string `json:"tr"`
+	Ge     string `json:"ka"`
 }
 
 type AppForm struct {

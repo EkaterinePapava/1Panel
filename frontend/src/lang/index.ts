@@ -8,6 +8,7 @@ import ru from './modules/ru';
 import ms from './modules/ms';
 import ko from './modules/ko';
 import tr from './modules/tr';
+import ka from './modules/ka';
 
 const i18n = createI18n({
     legacy: false,
@@ -25,6 +26,7 @@ const i18n = createI18n({
         ms,
         ko,
         tr,
+        ka,
     },
     warnHtmlMessage: false,
 });
